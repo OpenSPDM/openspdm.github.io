@@ -3,14 +3,14 @@ description: Documentation for openSPDM project
 #url: "https://openspdm.com"
 remote_theme: alexander-heimbuch/millidocs
 
-markdown: kramdown
-kramdown:
-  syntax_highlighter_opts:
-    disable : true
+#markdown: kramdown
+#kramdown:
+#  syntax_highlighter_opts:
+#    disable : true
 
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
+#  - README.md
 
 ---
