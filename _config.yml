@@ -1,7 +1,6 @@
 title: openSPDM Documentation
-description: Documentation for openSPDM project
+#description: Documentation for openSPDM project
 #url: "https://openspdm.com"
-#remote_theme: alexander-heimbuch/millidocs
 remote_theme: just-the-docs/just-the-docs
 
 
@@ -15,7 +14,6 @@ exclude:
   - Gemfile.lock
   - README.md
 
----
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/openspdm.png"
 
