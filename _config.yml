@@ -12,6 +12,6 @@ theme: just-the-docs
 exclude:
   - Gemfile
   - Gemfile.lock
-#  - README.md
+  - README.md
 
 ---
