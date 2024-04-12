@@ -1,7 +1,8 @@
 title: openSPDM Documentation
 description: Documentation for openSPDM project
 #url: "https://openspdm.com"
-remote_theme: alexander-heimbuch/millidocs
+#remote_theme: alexander-heimbuch/millidocs
+theme: just-the-docs
 
 #markdown: kramdown
 #kramdown:
